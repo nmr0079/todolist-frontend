@@ -1,5 +1,5 @@
 {
-  "proxy": "https://todolist-api.onrender.com",
+  "proxy": "https://todolist-api-5zdi.onrender.com/",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
